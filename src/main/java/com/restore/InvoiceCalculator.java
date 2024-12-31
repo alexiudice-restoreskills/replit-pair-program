@@ -1,9 +1,9 @@
 package com.restore;
 
 public class InvoiceCalculator {
-    // Keep a list of (amount, currency) items
+    // Items data structure should store the item, its price, and the currency the price is in
 
-    // Keep a map for exchange rates
+    // Exchange rates data structure
 
     // Methods to add items and set exchange rates
 }
